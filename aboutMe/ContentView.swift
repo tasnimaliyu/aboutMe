@@ -25,7 +25,7 @@ struct ContentView: View {
             
             Button(action: {showBio.toggle()})
             {
-                Text("Click to learn about me!")
+                Text("Click to learn about me!♥️")
                     .font(.headline)
                     .foregroundColor(.white)
                     .padding()
@@ -43,7 +43,7 @@ struct ContentView: View {
                         .fontWeight(.bold)
                     
                     Text("aka")
-                    Text("Drama Queen")
+                    Text("Drama Queen👑")
                 }
                 
                 
